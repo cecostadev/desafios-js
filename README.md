@@ -27,3 +27,8 @@ Coleção de projetos interativos em JavaScript que demonstram diferentes funcio
 
 #### 07 - Lista de Tarefas
 📝 [Lista de Tarefas](https://teste)
+
+
+## Referencia
+
+https://github.com/SobrinhoSergio/desafios-javascript/tree/main
