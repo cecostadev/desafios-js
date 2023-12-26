@@ -4,28 +4,22 @@ Coleção de projetos interativos em JavaScript que demonstram diferentes funcio
 
 ### Projetos
 
-#### 00 - Calculadora IMC
+#### 01 - Calculadora IMC
 📏 [Calculadora IMC](https://teste)
 
-#### 01 - Lâmpada
+#### 02 - Lâmpada
 💡 [Lâmpada](https://teste)
 
-#### 02 - Semáforo
+#### 03 - Semáforo
 🚦 [Semáforo](https://teste)
 
-#### 03 - Slide Show
+#### 04 - Slide Show
 🖼️ [Slide Show](https://teste)
-
-#### 04 - Drum Kit
-🥁 [Drum Kit](https://teste)
 
 #### 05 - Countdown
 ⏳ [Countdown](https://teste)
 
-#### 06 - Calculadora
-🧮 [Calculadora](https://teste)
-
-#### 07 - Lista de Tarefas
+#### 06 - Lista de Tarefas
 📝 [Lista de Tarefas](https://teste)
 
 
