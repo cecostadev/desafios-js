@@ -8,7 +8,7 @@ Coleção de projetos interativos em JavaScript que demonstram diferentes funcio
 📏 [Calculadora IMC](https://github.com/cecostadev/desafios-js/tree/main/imc)
 
 #### 02 - Lâmpada
-💡 [Lâmpada]([https://teste](https://github.com/cecostadev/desafios-js/tree/main/lamp))
+💡 [Lâmpada]([https://teste](https://github.com/cecostadev/desafios-js/tree/main/lamp)
 
 #### 03 - Semáforo
 🚦 [Semáforo](https://teste)
