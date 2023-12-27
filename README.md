@@ -5,10 +5,10 @@ Coleção de projetos interativos em JavaScript que demonstram diferentes funcio
 ### Projetos
 
 #### 01 - Calculadora IMC
-📏 [Calculadora IMC](https://teste)
+📏 [Calculadora IMC](https://github.com/cecostadev/desafios-js/tree/main/imc)
 
 #### 02 - Lâmpada
-💡 [Lâmpada](https://teste)
+💡 [Lâmpada]([https://teste](https://github.com/cecostadev/desafios-js/tree/main/lamp))
 
 #### 03 - Semáforo
 🚦 [Semáforo](https://teste)
