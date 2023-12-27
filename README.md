@@ -1,6 +1,6 @@
-# Desafios JavaScript
+# JS Challenge
 
-Coleção de projetos interativos em JavaScript que demonstram diferentes funcionalidades. Clique em cada projeto para experimentar!
+Collection of interactive JavaScript projects demonstrating different functionalities. Click on each project to view!
 
 ### Projetos
 
@@ -23,6 +23,6 @@ Coleção de projetos interativos em JavaScript que demonstram diferentes funcio
 📝 [Lista de Tarefas](https://teste)
 
 
-## Referencia
+## References
 
 https://github.com/SobrinhoSergio/desafios-javascript/tree/main
