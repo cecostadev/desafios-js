@@ -1,0 +1,25 @@
+.container {
+    margin: auto;
+    width: 200px;
+    height: 960px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container img {
+    cursor: pointer;
+}
+
+.container button {
+    cursor: pointer;
+    margin-top: 50px;
+    font-size: 14px;
+    background-color: #1933B9;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 100px;
+    padding: 15px;
+}
